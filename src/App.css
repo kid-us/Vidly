@@ -19,7 +19,7 @@
 
 /* Banner */
 .banner-container {
-  object-fit: contain;
+  object-fit: cover;
   height: 100vh;
 }
 
