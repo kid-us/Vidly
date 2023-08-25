@@ -19,7 +19,7 @@ const Banner = ({ fetchUrl }) => {
                 style={{
                     backgroundSize: "cover",
                     backgroundImage: `linear-gradient(to bottom, rgba(1, 1, 1, 0.20), rgba(0, 0, 0, 0.99)), url("https://image.tmdb.org/t/p/original/${movie?.backdrop_path || movie?.poster_path}")`,
-                    backgroundPosition: "center top",
+                    backgroundPosition: "center center",
                     paddingTop: "50px"
                 }}
             >
