@@ -18,7 +18,7 @@ const Footer = () => {
                 <div className="footer-wrapper container pt-5">
                     <div className="row pt-5 mx-lg-5 px-lg-5">
                         <div className="col-lg-4 col-md-4 col-12 mt-5">
-                            <div className="text-center">
+                            <div className="">
                                 <img src={logo} alt="Logo" width={"200px"} />
                             </div>
                         </div>
