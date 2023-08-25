@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Raleway:wght@100;400&family=Russo+One&display=swap');
+
+/* @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Dancing+Script:wght@500&family=Lilita+One&family=Poppins:wght@700&family=Rajdhani&family=Rowdies:wght@300&family=Ubuntu:wght@300&display=swap'); */
+
+/* :root {
+  --main-color: #1C1C1C;
+  --secondary-color: #262525;
+  --box-bg: #DAA425;
+  --btnBg: #dd9d07;
+  --borderBg: #110e49;
+} */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Russo One', sans-serif;
+}
+
+p,
+a,
+li,
+span,
+input,
+label,
+textarea {
+  font-family: 'Raleway', sans-serif;
+}
+
+* body {
+  /* background-color: #060505; */
+  background-color: #080708;
+  transition: all 0.5s;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #293132;
+}
