@@ -50,7 +50,7 @@ const NavBar = ({ searchFor }) => {
                     <div className="d-none d-md-block">
                         <div className="row small fw-semibold">
                             <div className="col-lg-3 col-md-2 mt-2">
-                                <Link className='text-decoration text-light' to={'/'} >
+                                <Link className='text-decoration text-light' to={'/vidly'} >
                                     <img src={logo} alt="Logo" width={"120px"} />
                                 </Link>
                             </div>
