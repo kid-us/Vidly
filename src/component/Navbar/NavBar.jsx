@@ -92,7 +92,7 @@ const NavBar = ({ searchFor }) => {
                         <div className="row justify-content-between">
                             <div className='col-6'>
                                 <p className='pt-2'>
-                                    <Link className='text-decoration text-light' to={'/'} >
+                                    <Link className='text-decoration text-light' to={'/vidly'} >
                                         <img src={logo} alt="Logo" width={"100px"} />
                                     </Link>
                                 </p>
