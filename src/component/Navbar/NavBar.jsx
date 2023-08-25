@@ -50,7 +50,7 @@ const NavBar = ({ searchFor }) => {
                     <div className="d-none d-md-block">
                         <div className="row small fw-semibold">
                             <div className="col-lg-3 col-md-2 mt-2">
-                                <Link className='text-decoration text-light' to={'/vidly'} >
+                                <Link className='text-decoration text-light' to={'/'} >
                                     <img src={logo} alt="Logo" width={"120px"} />
                                 </Link>
                             </div>
@@ -92,7 +92,7 @@ const NavBar = ({ searchFor }) => {
                         <div className="row justify-content-between">
                             <div className='col-6'>
                                 <p className='pt-2'>
-                                    <Link className='text-decoration text-light' to={'/vidly'} >
+                                    <Link className='text-decoration text-light' to={'/'} >
                                         <img src={logo} alt="Logo" width={"100px"} />
                                     </Link>
                                 </p>
