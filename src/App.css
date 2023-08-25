@@ -45,6 +45,11 @@
   font-size: clamp(8px, 3.5vw, 16px);
 }
 
+.sm-banner-overview {
+  font-size: clamp(8px, 3.5vw, 16px);
+  background: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
 
 /* Trend Image */
 .d-flex {
