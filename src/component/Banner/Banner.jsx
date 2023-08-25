@@ -55,7 +55,7 @@ const Banner = ({ fetchUrl }) => {
                         <p className='mt-4'>
                             <Link to={`/${movie.media_type}/${movie.id}`} className='px-5 btn btn-warning py-1 bi-box-arrow-in-right'></Link>
                         </p>
-                        <p className='mt-3 fw-semibold text-grey sm-banner-overview'>{movie?.overview}</p>
+                        <p className='mt-3 fw-semibold text-grey sm-banner-overview rounded p-2'>{movie?.overview}</p>
                     </div>
                 </div>
             </header >
