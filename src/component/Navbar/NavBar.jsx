@@ -100,12 +100,12 @@ const NavBar = ({ searchFor }) => {
 
                             <div className='offset-2 col-1'>
                                 <p className='pt-2'>
-                                    <span onClick={() => showSearchModal()} className={`${searchModal === 1 ? "animate__animated animate__fadeInDown bi-x-lg text-danger" : "bi-search text-shadow"} fs-3 `}></span>
+                                    <span onClick={() => showSearchModal()} className={`${searchModal === 1 ? "animate__animated animate__fadeInDown bi-x-lg text-danger" : "bi-search text-shadow"} fs-4 `}></span>
                                 </p>
                             </div>
                             <div className="col-1 me-4">
                                 <p className='pt-1'>
-                                    <span onClick={() => showMenuModal()} className={`${menuModal === 1 ? "animate__animated animate__fadeInDown bi-x-lg text-danger" : "bi-list text-shadow"} fs-1 `}></span>
+                                    <span onClick={() => showMenuModal()} className={`${menuModal === 1 ? "animate__animated animate__fadeInDown bi-x-lg text-danger" : "bi-list text-shadow"} fs-2 `}></span>
                                 </p>
                             </div>
                         </div>
