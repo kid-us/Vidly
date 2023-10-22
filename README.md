@@ -1,8 +1,21 @@
-# React + Vite
+# Vidly
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2> Vidly Home Of Movies </h2>
 
-Currently, two official plugins are available:
+<p> Vidly is top of free Movie and Tv Shows static website, where to watch movies trailers and all information online free without registration required. With a big database and great features, we're confident Vidly is the best free movies online website in the space that you can't simply miss!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This site does not store any files on our server, we only linked to the media which is hosted on 3rd party services. </p>
+
+<p>I build this an amzing website for my portfolio to show who's interested on me on the tech specially in web development industry </p>
+
+<p> I used some good stacks for this website these are:  </p>
+<ul>
+  <li> React </li>
+  <li> CSS </li>
+  <li> Bootstrap </li>
+  <li> JS </li>
+  <li> And other good npms </li>
+</ul>
+
+<p> if you want to give a look at the website here is the link <a href="https://vidly-zeta.vercel.app"> Vidly </a> </p>
+<p> Enjoy </p>
