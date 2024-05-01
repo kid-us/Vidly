@@ -36,7 +36,7 @@ const Footer = () => {
                     </div>
                     <div className="small text-center">
                         <li className='small text-secondary list-style-none mt-5 pt-4'>{new Date().getFullYear()} &copy; All right reserved</li>
-                        <li className='small text-secondary list-style-none mt-2'> Developed By: <a className='text-decoration text-warning' href="https://kidus-w.web.app">Kidus WF</a></li>
+                        <li className='small text-secondary list-style-none mt-2'> Developed By: <a className='text-decoration text-warning' href="https://kiduswebsdev.web.app">Kidus WF</a></li>
                     </div>
                 </div>
 
