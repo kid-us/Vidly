@@ -8,6 +8,15 @@ This site does not store any files on our server, we only linked to the media wh
 
 <p>I build this an amzing website for my portfolio to show who's interested on me on the tech specially in web development industry </p>
 
+<h2> Features</h2>
+ -Browse and search for games using the RAWG API.
+ -View detailed information about each game, including release date, platform, and description.
+ -User-friendly UI built with Chakra UI and styled-components.
+ -Smooth animations and transitions powered by framer-motion.
+ -Form handling and validation with react-hook-form.
+ -Strongly typed codebase using TypeScript and Zod for validation.
+ -Efficient development environment with Vite.
+
 <p> I used some good stacks for this website these are:  </p>
 <ul>
   <li> React </li>
