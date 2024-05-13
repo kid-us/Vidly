@@ -16,7 +16,7 @@ This site does not store any files on our server, we only linked to the media wh
  <li>Efficient development environment with Vite.</li>
  <li>View each movies and tv shows Trailer without leaving the website</li>
 
-<p> I used some good stacks for this website these are:  </p>
+##<p> I used some good stacks for this website these are:  </p>
 <ul>
   <li> React </li>
   <li> CSS </li>
