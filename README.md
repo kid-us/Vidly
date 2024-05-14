@@ -18,22 +18,20 @@ This site does not store any files on our server, we only linked to the media wh
 
 <h2>UI Screenshot</h2>
 <p>Here's a glimpse of the user interface:</p>
-<img src="https://github.com/kid-us/Vidly/blob/main/ui.jpg" width="100%">
+<img src="https://github.com/kid-us/Vidly/blob/main/ui.png" width="100%">
 
 <h2>Tech Stack</h2>
 <p>kid-us/Vidly is built on the following main stack:</p>
-<p>Bootstrap 5</p>
-<p>React Javascript UI Libraries</p> 
-<p>CSS</p> 
-<p>JavaScript</p>
-<p>Axios</p> 
+<p>#Bootstrap 5</p>
+<p>#React Javascript UI Libraries</p> 
+<p>#CSS</p> 
+<p>#JavaScript</p>
+<p>#Axios</p> 
 
 <h2> Installation </h2>
 <p>1: Clone the repository</p>
 <p>2: Navigate to the project directory</p>
-<p>3: Install dependencies:- ```bash
-npm install
-``` </p>
+<p>3: Install dependencies:- ```bash npm install``` </p>
 <p>1: Run the Project</p>
 <p> if you want to give a look at the website here is the link <a href="https://vidly-zeta.vercel.app"> Vidly </a> </p>
 <p> Enjoy </p>
