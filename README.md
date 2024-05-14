@@ -27,7 +27,9 @@ This site does not store any files on our server, we only linked to the media wh
 <h2> Installation </h2>
 <p>1: Clone the repository</p>
 <p>2: Navigate to the project directory</p>
-<p>3: Install dependencies</p>
+<p>3: Install dependencies:- ```bash
+npm install
+``` </p>
 <p>1: Run the Project</p>
 <p> if you want to give a look at the website here is the link <a href="https://vidly-zeta.vercel.app"> Vidly </a> </p>
 <p> Enjoy </p>
