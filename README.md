@@ -16,6 +16,10 @@ This site does not store any files on our server, we only linked to the media wh
  <li>Efficient development environment with Vite.</li>
  <li>View each movies and tv shows Trailer without leaving the website</li>
 
+<h2>UI Screenshot</h2>
+<p>Here's a glimpse of the user interface:</p>
+<img src="https://github.com/kid-us/Vidly/blob/main/ui.jpg">
+
 <h2>Tech Stack</h2>
 <p>kid-us/Vidly is built on the following main stack:</p>
 <p>Bootstrap 5</p>
