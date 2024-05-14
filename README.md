@@ -19,6 +19,7 @@ This site does not store any files on our server, we only linked to the media wh
 <h2>Tech Stack</h2>
 <p>kid-us/Vidly is built on the following main stack:</p>
 
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> Bootstrap 5</p>
 React React – Javascript UI Libraries
 JavaScript JavaScript – Languages
 TypeScript TypeScript – Languages
