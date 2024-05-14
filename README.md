@@ -29,7 +29,7 @@ This site does not store any files on our server, we only linked to the media wh
 <p>#Axios</p> 
 
 <h2> Installation </h2>
-<p>1: Clone the repository :- <code></code></p>
+<p>1: Clone the repository</p>
 <p>2: Navigate to the project directory:- <code>cd Vidly-main</code> </p>
 <p>3: Install dependencies:- <code>npm install</code></p>
 <p>4: Run the Project:- <code>npm run dev</code></p>
