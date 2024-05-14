@@ -18,13 +18,16 @@ This site does not store any files on our server, we only linked to the media wh
 
 <h2>Tech Stack</h2>
 <p>kid-us/Vidly is built on the following main stack:</p>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/>Bootstrap 5</p>
-<p><img src="https://camo.githubusercontent.com/7f9ada46d63248967ba3f3b81f0b42dcb8c051914a8245be2b0607db1d31d723/68747470733a2f2f696d672e737461636b73686172652e696f2f736572766963652f313032302f4f5949614a314b4b2e706e67" alt="React" width="30" height="30"/> React Javascript UI Libraries</p> 
-<p><img src="https://camo.githubusercontent.com/998fc2e6814e3d8f7b8dd8d36f5b596872c6e626d5cb50ab6ebc8f5cd5e2da77/68747470733a2f2f696d672e737461636b73686172652e696f2f736572766963652f313230392f6a6176617363726970742e6a706567" alt="JavaScript" width="30" height="30"/> JavaScript JavaScript – Languages</p> 
+<p>Bootstrap 5</p>
+<p>React Javascript UI Libraries</p> 
+<p>CSS</p> 
+<p>JavaScript</p>
+<p>Axios</p> 
 
-ESLint ESLint – Code Review
-axios axios – Javascript Utilities & Libraries
-styled-components styled-components – JavaScript Framework Components
-Prettier Prettier – Code Review
+<h2> Installation </h2>
+<p>1: Clone the repository</p>
+<p>2: Navigate to the project directory</p>
+<p>3: Install dependencies</p>
+<p>1: Run the Project</p>
 <p> if you want to give a look at the website here is the link <a href="https://vidly-zeta.vercel.app"> Vidly </a> </p>
 <p> Enjoy </p>
