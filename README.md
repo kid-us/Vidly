@@ -16,5 +16,15 @@ This site does not store any files on our server, we only linked to the media wh
  <li>Efficient development environment with Vite.</li>
  <li>View each movies and tv shows Trailer without leaving the website</li>
 
+<h2>Tech Stack</h2>
+<p>kid-us/Vidly is built on the following main stack:</p>
+
+React React – Javascript UI Libraries
+JavaScript JavaScript – Languages
+TypeScript TypeScript – Languages
+ESLint ESLint – Code Review
+axios axios – Javascript Utilities & Libraries
+styled-components styled-components – JavaScript Framework Components
+Prettier Prettier – Code Review
 <p> if you want to give a look at the website here is the link <a href="https://vidly-zeta.vercel.app"> Vidly </a> </p>
 <p> Enjoy </p>
